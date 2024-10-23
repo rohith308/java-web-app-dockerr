@@ -40,9 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Wissen Infotech Private Limited, Adarshecoplace, Bengaluru, Karnataka, India.</h2>
-			<h3>CICD continuous integration And Continuous Deployement, Delivery To Deploy Applications In Tomcat Using Jenkins Pipeline </h3>
-			<h4>Deployed From AWS 12th Batch Thank You All For Listening.</h4> 
+			<h2>"We are excited to invite you to our upcoming AWS DevOps training session, conducted by our expert trainer, Rohith. Join us to enhance your skills and learn the best practices in AWS DevOps. Don't miss this opportunity to grow your knowledge and expertise!".</h2>
+			
 		</div>	
 	</div>
 
